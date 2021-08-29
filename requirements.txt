@@ -1,0 +1,5 @@
+cryptography
+asn1crypto
+pycparser
+idna
+cffi
